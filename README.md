@@ -7,13 +7,13 @@ https://github.com/jantic/DeOldify
 
 ## Movie Output Sample  
 ### Marilyn Monroe - I Wanna Be Loved By You [Colorization]  
-https://www.youtube.com/watch?v=s7YBnYwoIZ0  
+https://www.youtube.com/watch?v=0ASyKfArVU0  
 ![スクリーンショット 2021-10-24 19 13 47](https://user-images.githubusercontent.com/36861752/138589567-e89c4f42-e91f-4116-9cb6-bd6cc4efc7ca.png)
 
 ### Charles Lindbergh - From New York to Paris 1927 [Colorization]  
-https://www.youtube.com/watch?v=EiSZfvvkSV0  
+https://www.youtube.com/watch?v=ljYd-UMdLe4  
 ![スクリーンショット 2021-10-24 19 12 34](https://user-images.githubusercontent.com/36861752/138589576-ad91b548-ca1d-46bf-9e81-6307765bb0c2.png)
 
 ### The EPIC Skills of Di Stefano - the Complete Footballer [Colorization]  
-https://www.youtube.com/watch?v=4QvljlLkMCM  
+https://www.youtube.com/watch?v=uZ8YlCKmP7k  
 ![スクリーンショット 2021-10-24 19 12 06](https://user-images.githubusercontent.com/36861752/138589586-1100eb56-2578-4112-a491-102d613cc4d8.png)
