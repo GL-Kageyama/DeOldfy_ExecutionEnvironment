@@ -1,4 +1,4 @@
-# DeOldfy Model Execution Environment  
+# DeOldify Model Execution Environment  
 
 ## Deep Learning Model  
 https://github.com/jantic/DeOldify  
