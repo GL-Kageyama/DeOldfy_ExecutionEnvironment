@@ -5,9 +5,13 @@ https://github.com/jantic/DeOldify
 
 <img width="412" alt="LOGOdeoldifyTransparent" src="https://user-images.githubusercontent.com/36861752/138589407-fb52f583-4840-4fff-9098-c066d55d6b49.png">
 
+
 ## Reference for execution procedure  
 ### Colorization procedure for black and white images  
 https://note.com/asianews_ch/n/n39a2ab6f0bc9  
+
+![スクリーンショット 2021-10-27 2 11 51](https://user-images.githubusercontent.com/36861752/138927892-7ef032dc-f102-4d53-8267-6875ad231523.png)
+
 
 ## Movie Output Sample  
 ### Marilyn Monroe - I Wanna Be Loved By You [Colorization]  
